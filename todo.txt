@@ -10,4 +10,4 @@ Display logos
 
 Create Django version of each domain
 Create Rocket version of each domain
-Link between versions with switch logo on linkgit 
+Link between versions with switch logo on linkp
