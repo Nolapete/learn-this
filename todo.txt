@@ -1,0 +1,13 @@
+Create Django site
+Add Django REST Framework API
+Add GraphQL API
+Add Vue Frontend
+
+Create Rocket site
+
+Display my name
+Display logos
+
+Create Django version of each domain
+Create Rocket version of each domain
+Link between versions with switch logo on linkgit 
